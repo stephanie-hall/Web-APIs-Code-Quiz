@@ -20,7 +20,7 @@ THEN I can save my initials and score
 
 ## Application IMG
 
-![Code Quiz IMG](Assets\WebAPI.PNG)
+![image](Assets\IMG\WebAPI.PNG)
 
 ## Application Link
 
