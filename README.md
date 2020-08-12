@@ -18,10 +18,10 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-## Application
+## Application IMG
 
 ![Code Quiz IMG](Assets\WebAPI.PNG)
 
-## Link to Application
+## Application Link
 
-![Code Quiz](https://stephanie-hall.github.io/Web-APIs-Code-Quiz/.)
+[Code Quiz](https://stephanie-hall.github.io/Web-APIs-Code-Quiz/)
