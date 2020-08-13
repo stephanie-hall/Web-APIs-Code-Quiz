@@ -20,7 +20,7 @@ THEN I can save my initials and score
 
 ## Application IMG
 
-![image](Assets\IMG\WebAPI.jpg)
+![image](/Assets/IMG/WebAPI.jpg)
 
 ## Application Link
 
